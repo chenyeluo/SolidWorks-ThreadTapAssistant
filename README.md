@@ -3,6 +3,11 @@
 > **工业级机械螺纹标准计算与草图尺寸秒改 SolidWorks 原生插件**  
 > 全球11国标准 · 纯选择防呆 · A~ZC / IT01~IT18 全公差引擎 · 三色工程分级
 
+[![GitHub release](https://img.shields.io/github/v/release/chenyeluo/SolidWorks-ThreadTapAssistant?color=1890FF&label=%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC)](https://github.com/chenyeluo/SolidWorks-ThreadTapAssistant/releases/latest)
+[![Download](https://img.shields.io/badge/%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85%E5%8C%85-Setup.exe-brightgreen)](https://github.com/chenyeluo/SolidWorks-ThreadTapAssistant/releases/download/v1.0.0/SolidWorks_ThreadTapAssistant_Setup.exe)
+
+👉 **[点击直接下载单文件安装程序 (SolidWorks_ThreadTapAssistant_Setup.exe)](https://github.com/chenyeluo/SolidWorks-ThreadTapAssistant/releases/download/v1.0.0/SolidWorks_ThreadTapAssistant_Setup.exe)**
+
 ---
 
 ## 🌟 核心特性与功能升级
