@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadTapAssistant", "ThreadTapAssistant.csproj", "{B1F830C8-A7D9-4E62-BC1F-5079E3A5A110}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AnyCPU = Debug|AnyCPU
+		Release|AnyCPU = Release|AnyCPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1F830C8-A7D9-4E62-BC1F-5079E3A5A110}.Debug|AnyCPU.ActiveCfg = Debug|AnyCPU
+		{B1F830C8-A7D9-4E62-BC1F-5079E3A5A110}.Debug|AnyCPU.Build.0 = Debug|AnyCPU
+		{B1F830C8-A7D9-4E62-BC1F-5079E3A5A110}.Release|AnyCPU.ActiveCfg = Release|AnyCPU
+		{B1F830C8-A7D9-4E62-BC1F-5079E3A5A110}.Release|AnyCPU.Build.0 = Release|AnyCPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

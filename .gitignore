@@ -1,0 +1,12 @@
+## Build outputs
+[Bb]in/
+[Oo]bj/
+Package_Staging/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vs/
+*.old
+*.tmp
+*.log
