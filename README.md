@@ -51,6 +51,6 @@
 
 ## 🚀 安装与使用
 
-1. 打开发行目录：`c:\DownLoad\Application_Design\SW_putin_design\ThreadTapAssistant\bin\Release\`；
+1. 打开发行目录：`c:\DownLoad\Application_Design\SW_putin_design\ThreadTapAssistant\bin\Release\`或直接下载SolidWorks_ThreadTapAssistant_Setup.exe文件；
 2. 退出 SolidWorks，运行 **`Setup.exe`**；
 3. 打开 SolidWorks，点击右侧任务窗格图标展开使用！
